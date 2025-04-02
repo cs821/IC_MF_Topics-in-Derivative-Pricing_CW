@@ -14,3 +14,5 @@ Future work is to implement the following functions:
 `choose_N_best_trades` I think this function need huge things to do. We probably need to implement `butterfly` positions which is covered in lectures but I haven't covered yet, also Piterbarg said review `z-scores` so we need to implement at least two `choose_N_best_trades` functions.
 
 Then write a function to calculate the present value of swap and use it to backtest pnl.
+
+Try different `K` and `N` to compare pnl.
