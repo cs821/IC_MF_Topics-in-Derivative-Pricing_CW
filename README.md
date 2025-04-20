@@ -12,5 +12,5 @@ Zhenyi Chen (CID: 06011402)\
 Chengdong Song (CID: 02030540)
 
 
-## Structurer
+## Structure
 
