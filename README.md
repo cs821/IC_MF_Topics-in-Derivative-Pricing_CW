@@ -17,7 +17,7 @@ Chengdong Song (CID: 02030540)
 - **`Code_Earlier_Version/`**  
   This folder includes older versions of our implementation, before the final submission.
 
-- **`changenamelater.ipynb`**  
+- **`micro_rv_final.ipynb`**  
   This notebook contains the complete implementation for coursework
 
 - **`Data_Used`**  
@@ -25,7 +25,6 @@ Chengdong Song (CID: 02030540)
   - **`Bloomberg - Historical Data v2024-11-26 (1).xlsx`** is the original Bloomberg historical data spreadsheet provided for the coursework. The following files are all modified version of one of this sheets.
   - **`MicroRV_CW.xlsx`** This sheet provides historical swap rate data for GBP SONIA OIS curves.
   - **`micro_rv_euro.xlsx`** This sheet contains swap rate data for the EUR ESTR curve. 
-  - **`micro_rv_jpy.xlsx`** This sheet includes swap rate data for JPY OIS.
   - **`micro_rv_usd.xlsx`** This sheet provides historical swap rates based on USD SOFR.
 
 ---
